@@ -1,2 +1,2 @@
 # hello_world
-Hello_world
+i just learnt python
